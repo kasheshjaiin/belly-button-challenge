@@ -20,6 +20,10 @@ This dashboard provides visualizations and insights into the microbial diversity
 
 4. **Update Charts:** All charts will be updated dynamically based on the selected test subject ID.
 
+## Deployment
+
+The Belly Button Biodiversity Dashboard is deployed using GitHub Pages. You can access it [here](https://kasheshjaiin.github.io/belly-button-challenge/).
+
 ## Technologies Used
 
 - D3.js: Used for data visualization and DOM manipulation.
@@ -31,4 +35,5 @@ This dashboard provides visualizations and insights into the microbial diversity
 To run this dashboard locally or contribute to the project, follow these steps:
 
 1. Clone this repository to your local machine.
+
 2. Open the `index.html` file in your web browser to view the dashboard.
